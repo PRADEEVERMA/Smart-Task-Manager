@@ -10,8 +10,7 @@ Manage your daily tasks with authentication, drag & drop, filtering, and a moder
 
 ## 📸 Screenshots
 
-![Home](<img width="1877" height="807" alt="Home png" src="https://github.com/user-attachments/assets/bd8ed018-753b-4789-9cfd-f5cff717ae9a" />
-)
+![Home](./image/Home.png)
 ![Login](./image/Home.png)
 ![Signup](./image/Singup.png)
 ![Search](./image/Search.png)
@@ -84,7 +83,7 @@ Create `.env`:
 
 ```env
 PORT=5000
-MONGO_URI=your_mongodb_uri
+MONGO_URI=xxxxxxxxx
 JWT_SECRET=your_secret
 COOKIE_SECRET=your_cookie_secret
 FRONTEND_BASE_URL=http://localhost:5173

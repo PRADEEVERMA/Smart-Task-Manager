@@ -15,7 +15,7 @@ Manage your daily tasks with authentication, drag & drop, filtering, and a moder
 ![Login](./image/Home.png)
 ![Signup](./image/Singup.png)
 ![Search](./image/Search.png)
-![Edit Task](./images/taskedit.png)
+![Edit Task](./image/Task.png)
 
 ---
 

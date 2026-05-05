@@ -10,7 +10,8 @@ Manage your daily tasks with authentication, drag & drop, filtering, and a moder
 
 ## 📸 Screenshots
 
-![Home](./images/home.png)
+![Home](<img width="1877" height="807" alt="Home png" src="https://github.com/user-attachments/assets/bd8ed018-753b-4789-9cfd-f5cff717ae9a" />
+)
 ![Login](./images/login.png)
 ![Signup](./images/signup.png)
 ![Task Details](./images/taskdetails.png)

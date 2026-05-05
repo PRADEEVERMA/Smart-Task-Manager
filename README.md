@@ -12,7 +12,7 @@ Manage your daily tasks with authentication, drag & drop, filtering, and a moder
 
 ### 🏠 Home
 
-![Home](https://github.com/user-attachments/assets/bd8ed018-753b-4789-9cfd-f5cff717ae9a)
+![Home](./main/image/Home.png)
 
 ### 🔐 Login
 

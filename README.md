@@ -10,29 +10,13 @@ Manage your daily tasks with authentication, drag & drop, filtering, and a moder
 
 ## 📸 Screenshots
 
-### 🏠 Home
-
-![Home](./main/image/Home.png)
-
-### 🔐 Login
-
-![Login](./images/login.png)
-
-### 📝 Signup
-
-![Signup](./images/signup.png)
-
-### 🔍 Search & Filter
-
-![Search](./images/search.png)
-
-### ✏️ Edit Task
-
-![Edit Task](./images/task.png)
-
-### 🔄 Update Task
-
-![Update](./images/update.png)
+![Home](<img width="1877" height="807" alt="Home png" src="https://github.com/user-attachments/assets/bd8ed018-753b-4789-9cfd-f5cff717ae9a" />
+)
+![Login](./image/Home.png)
+![Signup](./image/Singup.png)
+![Search](./image/Search.png)
+![Edit Task](./image/Task.png)
+![Update](./image/Update.png)
 
 ---
 
